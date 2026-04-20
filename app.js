@@ -48,7 +48,7 @@ function login() {
   }
 
   localStorage.setItem("session", user);
-  location.href = "dashboard.html";
+  location.href = "dashboad.html";
 }
 
 // RESET PASSWORD
